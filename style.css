@@ -1,0 +1,69 @@
+*{
+    font-family: sans-serif;
+    margin: 0 auto;
+    box-sizing: border-box;
+}
+
+body, html{
+    height: 100%;
+}
+
+body{
+    background-color: #313131;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+}
+
+h1{
+    color: white;
+}
+
+.image{
+    max-width: 300px;
+    margin-bottom: 24px;
+}
+
+.container-input{
+    max-width: 400px;
+    margin: 14px 0;
+}
+
+.container-input span{
+    color: white;
+    font-size: 22px;
+}
+
+.sliderC{
+    width: 100%;
+    border-radius: 5px;
+    background: white;
+    height: 18px;
+    outline: none;
+    margin-top: 8px;
+}
+
+.sliderD{
+    width: 100%;
+    border-radius: 5px;
+    background: white;
+    height: 18px;
+    outline: none;
+    margin-top: 8px;
+}
+
+.button{
+    height: 30px;
+    background-color: green;
+    border: 0;
+    border-radius: 4px;
+    cursor: pointer;
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+
+
