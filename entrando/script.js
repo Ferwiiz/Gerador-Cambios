@@ -18,6 +18,6 @@ function entrar() {
         }
 
         // Redirecionar para outra página
-        window.location.href = "../logado/index.html";
+        window.location.href = "../logado/gerador.html";
     }, 2000); // Tempo de atraso em milissegundos (aqui é 2 segundos)
 }
